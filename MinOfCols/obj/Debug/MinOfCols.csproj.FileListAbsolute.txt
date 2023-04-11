@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MinOfCols\bin\Debug\MinOfCols.exe.config
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MinOfCols\bin\Debug\MinOfCols.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MinOfCols\bin\Debug\MinOfCols.pdb
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MinOfCols\obj\Debug\MinOfCols.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MinOfCols\obj\Debug\MinOfCols.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MinOfCols\obj\Debug\MinOfCols.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MinOfCols\obj\Debug\MinOfCols.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MinOfCols\obj\Debug\MinOfCols.pdb

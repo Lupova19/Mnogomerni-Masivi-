@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\PascalTriangle\bin\Debug\PascalTriangle.exe.config
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\PascalTriangle\bin\Debug\PascalTriangle.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\PascalTriangle\bin\Debug\PascalTriangle.pdb
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\PascalTriangle\obj\Debug\PascalTriangle.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\PascalTriangle\obj\Debug\PascalTriangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\PascalTriangle\obj\Debug\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\PascalTriangle\obj\Debug\PascalTriangle.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\PascalTriangle\obj\Debug\PascalTriangle.pdb

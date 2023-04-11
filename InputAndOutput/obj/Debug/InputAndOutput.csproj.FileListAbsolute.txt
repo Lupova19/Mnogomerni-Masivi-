@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\InputAndOutput\bin\Debug\InputAndOutput.exe.config
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\InputAndOutput\bin\Debug\InputAndOutput.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\InputAndOutput\bin\Debug\InputAndOutput.pdb
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\InputAndOutput\obj\Debug\InputAndOutput.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\InputAndOutput\obj\Debug\InputAndOutput.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\InputAndOutput\obj\Debug\InputAndOutput.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\InputAndOutput\obj\Debug\InputAndOutput.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\InputAndOutput\obj\Debug\InputAndOutput.pdb

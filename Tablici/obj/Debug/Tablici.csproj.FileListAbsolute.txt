@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\Tablici\bin\Debug\Tablici.exe.config
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\Tablici\bin\Debug\Tablici.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\Tablici\bin\Debug\Tablici.pdb
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\Tablici\obj\Debug\Tablici.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\Tablici\obj\Debug\Tablici.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\Tablici\obj\Debug\Tablici.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\Tablici\obj\Debug\Tablici.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\Tablici\obj\Debug\Tablici.pdb

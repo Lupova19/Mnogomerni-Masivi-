@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\AvgRows\bin\Debug\AvgRows.exe.config
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\AvgRows\bin\Debug\AvgRows.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\AvgRows\bin\Debug\AvgRows.pdb
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\AvgRows\obj\Debug\AvgRows.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\AvgRows\obj\Debug\AvgRows.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\AvgRows\obj\Debug\AvgRows.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\AvgRows\obj\Debug\AvgRows.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\AvgRows\obj\Debug\AvgRows.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MaxPlayground\bin\Debug\MaxPlayground.exe.config
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MaxPlayground\bin\Debug\MaxPlayground.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MaxPlayground\bin\Debug\MaxPlayground.pdb
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MaxPlayground\obj\Debug\MaxPlayground.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MaxPlayground\obj\Debug\MaxPlayground.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MaxPlayground\obj\Debug\MaxPlayground.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MaxPlayground\obj\Debug\MaxPlayground.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\MaxPlayground\obj\Debug\MaxPlayground.pdb

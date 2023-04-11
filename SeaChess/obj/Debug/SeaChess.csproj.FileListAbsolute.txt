@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\SeaChess\bin\Debug\SeaChess.exe.config
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\SeaChess\bin\Debug\SeaChess.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\SeaChess\bin\Debug\SeaChess.pdb
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\SeaChess\obj\Debug\SeaChess.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\SeaChess\obj\Debug\SeaChess.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\SeaChess\obj\Debug\SeaChess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\SeaChess\obj\Debug\SeaChess.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\SeaChess\obj\Debug\SeaChess.pdb

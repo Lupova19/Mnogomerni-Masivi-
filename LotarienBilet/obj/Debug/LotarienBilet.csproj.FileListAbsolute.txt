@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\LotarienBilet\bin\Debug\LotarienBilet.exe.config
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\LotarienBilet\bin\Debug\LotarienBilet.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\LotarienBilet\bin\Debug\LotarienBilet.pdb
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\LotarienBilet\obj\Debug\LotarienBilet.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\LotarienBilet\obj\Debug\LotarienBilet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\LotarienBilet\obj\Debug\LotarienBilet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\LotarienBilet\obj\Debug\LotarienBilet.exe
+C:\Users\Admin\Desktop\Lupova19\MnogomerniMasivi\LotarienBilet\obj\Debug\LotarienBilet.pdb
